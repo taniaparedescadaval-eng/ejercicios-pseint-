@@ -3,7 +3,8 @@
 // al finalizar la carga mostrar todos los elementos del mismo
 
 
-Algoritmo estructuraDeDatosVectores
+Algoritmo 
+	
 	
 	Dimensionar valoresNumericos(10)
 	
